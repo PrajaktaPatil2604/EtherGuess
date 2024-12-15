@@ -35,8 +35,10 @@ During development, we:
 - Created a dynamic reward system integrating blockchain mechanics.
 - Optimized UI/UX with polished styling and responsive elements.
 - Documented the project with clear instructions and visuals for user engagement.
-
 ---
+
+## Demo
+Demo: [Demo](https://prajaktapatil2604.github.io/EtherGuess/)
 
 ## Screenshot
 
