@@ -1,4 +1,4 @@
-# Guess the Number Game
+# EtherGuess
 
 A blockchain-powered interactive game where players guess a randomly chosen number between 1 and 100 to win **Meme Coins**.
 
@@ -18,14 +18,12 @@ A blockchain-powered interactive game where players guess a randomly chosen numb
 
 ## Contract Details
 
-- **Transaction Hash**: `0x1facbedf4d72627d39bfba6fb3753623257f19faadd35e9ac06e370da4185f0e`
-- **Sender Address**: `0x7c4c26e16031ef4d298582ff295c31eaa0b04110d5f54bc546130c4173344f42`
+- **Contract Address**: `0x80Df7e0261fdD6739667dAF5853D27A901206206`
 - **Network**: Mantle Sepolia Testnet
-- **Module**: `CryptoRadar`
-
+- 
 ## Deployment
 
-- **Transaction Hash**: [View on Explorer](https://explorer.aptoslabs.com/txn/0x1facbedf4d72627d39bfba6fb3753623257f19faadd35e9ac06e370da4185f0e/userTxnOverview?network=devnet)
+- **Transaction Hash**: [View on Explorer](https://sepolia.mantlescan.xyz/address/0x80df7e0261fdd6739667daf5853d27a901206206)
 - **Coin Used**: MNT
 
 ## Progress During Development
@@ -39,6 +37,15 @@ During development, we:
 - Documented the project with clear instructions and visuals for user engagement.
 
 ---
+
+## Screenshot
+
+<img width="1379" alt="Screenshot 2024-12-14 at 3 31 10ΓÇ»PM" src="https://github.com/user-attachments/assets/f060a6b6-bced-4c8b-a66d-56fb75eefb8b" />
+<img width="1399" alt="Screenshot 2024-12-14 at 3 31 36ΓÇ»PM" src="https://github.com/user-attachments/assets/4ae59d30-e18b-4f86-aea1-4a02d917f616" />
+<img width="1389" alt="Screenshot 2024-12-14 at 3 31 52ΓÇ»PM" src="https://github.com/user-attachments/assets/65103d1b-ea83-47e3-8605-d20a37e262a9" />
+
+
+
 
 Enjoy playing **Guess the Number** and earn exciting Meme Coin rewards!
 
